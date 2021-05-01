@@ -1,0 +1,1 @@
+# Cotton_Disease_Prediction_using_Tranfer_Learning
